@@ -1,0 +1,18 @@
+#botao_adicionar{
+  margin-top: 5%;
+  margin-left: 1%;
+}
+#botao_jogar{
+    font-size: 30px;
+    color: white;
+}
+
+#adi_img{
+    margin-top: 3%;
+    margin-left: 2%;
+    width: 97%;
+}
+
+#alert{
+    margin-top: 3%;
+}
